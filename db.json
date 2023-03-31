@@ -1,7 +1,9 @@
 {
-  "user":[
-    {
-      "name":"Akash"
-    }
-  ]
+    "posts": [
+
+    ],
+    "comments": [
+
+    ],
+    "profile": {}
 }
