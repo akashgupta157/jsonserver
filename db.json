@@ -1,155 +1,157 @@
-[
-    {
-        "name": "Bulbasaur",
-        "image": "https://www.pngmart.com/files/11/Pokemon-Bulbasaur-PNG-Pic.png",
-        "type": [
-            "grass",
-            "poison"
-        ],
-        "height": 0.7,
-        "weight": 6.9,
-        "id": 1,
-        "abilities": [
-            "Overgrow",
-            "Chlorophyll"
-        ],
-        "base_stats": {
-            "hp": 45,
-            "attack": 49,
-            "defense": 49,
-            "special_attack": 65,
-            "special_defense": 65,
-            "speed": 45
-        },
-        "evolution": [
-            {
-                "id": 2
+{
+    "pokemon": [
+        {
+            "name": "Bulbasaur",
+            "image": "https://www.pngmart.com/files/11/Pokemon-Bulbasaur-PNG-Pic.png",
+            "type": [
+                "grass",
+                "poison"
+            ],
+            "height": 0.7,
+            "weight": 6.9,
+            "id": 1,
+            "abilities": [
+                "Overgrow",
+                "Chlorophyll"
+            ],
+            "base_stats": {
+                "hp": 45,
+                "attack": 49,
+                "defense": 49,
+                "special_attack": 65,
+                "special_defense": 65,
+                "speed": 45
             },
-            {
-                "id": 3
-            }
-        ],
-        "moves": [
-            {
-                "level": 1,
-                "move": "Growl",
-                "type": "Normal",
-                "category": "Status",
-                "power": 0,
-                "accuracy": 100
-            },
-            {
-                "level": 1,
-                "move": "Tackle",
-                "type": "Normal",
-                "category": "Physical",
-                "power": 40,
-                "accuracy": 100
-            },
-            {
-                "level": 3,
-                "move": "Vine Whip",
-                "type": "Grass",
-                "category": "Physical",
-                "power": 45,
-                "accuracy": 100
-            },
-            {
-                "level": 6,
-                "move": "Growth",
-                "type": "Normal",
-                "category": "Status",
-                "power": 0,
-                "accuracy": null
-            },
-            {
-                "level": 9,
-                "move": "Leech Seed",
-                "type": "Grass",
-                "category": "Status",
-                "power": 0,
-                "accuracy": 90
-            },
-            {
-                "level": 12,
-                "move": "Razor Leaf",
-                "type": "Grass",
-                "category": "Physical",
-                "power": 55,
-                "accuracy": 95
-            },
-            {
-                "level": 15,
-                "move": "Sleep Powder",
-                "type": "Grass",
-                "category": "Status",
-                "power": 0,
-                "accuracy": 75
-            },
-            {
-                "level": 15,
-                "move": "Poison Powder",
-                "type": "Poison",
-                "category": "Status",
-                "power": 0,
-                "accuracy": 75
-            },
-            {
-                "level": 18,
-                "move": "Seed Bomb",
-                "type": "Grass",
-                "category": "Physical",
-                "power": 80,
-                "accuracy": 100
-            },
-            {
-                "level": 21,
-                "move": "Take Down",
-                "type": "Normal",
-                "category": "Physical",
-                "power": 90,
-                "accuracy": 85
-            },
-            {
-                "level": 24,
-                "move": "Sweet Scent",
-                "type": "Normal",
-                "category": "Status",
-                "power": 0,
-                "accuracy": 100
-            },
-            {
-                "level": 27,
-                "move": "Synthesis",
-                "type": "Grass",
-                "category": "Status",
-                "power": 0,
-                "accuracy": null
-            },
-            {
-                "level": 30,
-                "move": "Worry Seed",
-                "type": "Grass",
-                "category": "Status",
-                "power": 0,
-                "accuracy": 100
-            },
-            {
-                "level": 33,
-                "move": "Double-Edge",
-                "type": "Normal",
-                "category": "Physical",
-                "power": 120,
-                "accuracy": 100
-            },
-            {
-                "level": 36,
-                "move": "Solar Beam",
-                "type": "Grass",
-                "category": "Special",
-                "power": 120,
-                "accuracy": 100
-            }
-        ]
-    }
-]
+            "evolution": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                }
+            ],
+            "moves": [
+                {
+                    "level": 1,
+                    "move": "Growl",
+                    "type": "Normal",
+                    "category": "Status",
+                    "power": 0,
+                    "accuracy": 100
+                },
+                {
+                    "level": 1,
+                    "move": "Tackle",
+                    "type": "Normal",
+                    "category": "Physical",
+                    "power": 40,
+                    "accuracy": 100
+                },
+                {
+                    "level": 3,
+                    "move": "Vine Whip",
+                    "type": "Grass",
+                    "category": "Physical",
+                    "power": 45,
+                    "accuracy": 100
+                },
+                {
+                    "level": 6,
+                    "move": "Growth",
+                    "type": "Normal",
+                    "category": "Status",
+                    "power": 0,
+                    "accuracy": null
+                },
+                {
+                    "level": 9,
+                    "move": "Leech Seed",
+                    "type": "Grass",
+                    "category": "Status",
+                    "power": 0,
+                    "accuracy": 90
+                },
+                {
+                    "level": 12,
+                    "move": "Razor Leaf",
+                    "type": "Grass",
+                    "category": "Physical",
+                    "power": 55,
+                    "accuracy": 95
+                },
+                {
+                    "level": 15,
+                    "move": "Sleep Powder",
+                    "type": "Grass",
+                    "category": "Status",
+                    "power": 0,
+                    "accuracy": 75
+                },
+                {
+                    "level": 15,
+                    "move": "Poison Powder",
+                    "type": "Poison",
+                    "category": "Status",
+                    "power": 0,
+                    "accuracy": 75
+                },
+                {
+                    "level": 18,
+                    "move": "Seed Bomb",
+                    "type": "Grass",
+                    "category": "Physical",
+                    "power": 80,
+                    "accuracy": 100
+                },
+                {
+                    "level": 21,
+                    "move": "Take Down",
+                    "type": "Normal",
+                    "category": "Physical",
+                    "power": 90,
+                    "accuracy": 85
+                },
+                {
+                    "level": 24,
+                    "move": "Sweet Scent",
+                    "type": "Normal",
+                    "category": "Status",
+                    "power": 0,
+                    "accuracy": 100
+                },
+                {
+                    "level": 27,
+                    "move": "Synthesis",
+                    "type": "Grass",
+                    "category": "Status",
+                    "power": 0,
+                    "accuracy": null
+                },
+                {
+                    "level": 30,
+                    "move": "Worry Seed",
+                    "type": "Grass",
+                    "category": "Status",
+                    "power": 0,
+                    "accuracy": 100
+                },
+                {
+                    "level": 33,
+                    "move": "Double-Edge",
+                    "type": "Normal",
+                    "category": "Physical",
+                    "power": 120,
+                    "accuracy": 100
+                },
+                {
+                    "level": 36,
+                    "move": "Solar Beam",
+                    "type": "Grass",
+                    "category": "Special",
+                    "power": 120,
+                    "accuracy": 100
+                }
+            ]
+        }
+    ]
+}
